@@ -1,0 +1,4 @@
+numpy==1.23.2
+numpy_stl==3.0.0
+qrcode==7.4.2
+stl==0.0.3
